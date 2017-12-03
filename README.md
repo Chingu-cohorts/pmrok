@@ -49,6 +49,10 @@ share what we've learned with our fellow PM's.
 
 ### Processes
 
+#### Patterns
+
+#### Anti-Patterns
+
 ### Tools
 
 ### Reference Material
