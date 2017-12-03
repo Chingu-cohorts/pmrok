@@ -15,6 +15,10 @@ and performing project work.
 
 ### Processes
 
+#### Patterns
+
+#### Anti-Patterns
+
 ### Tools
 
 ### Reference Material
