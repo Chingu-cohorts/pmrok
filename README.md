@@ -22,6 +22,25 @@ content needed to fill any gaps.
 reflecting on what we do, finding faster and better ways to manage our
 projects, and being open to new ways of doing things.
 
+## What is a PM?
+
+An Agile PM is responsible for managing the resouces, time, and scope that
+make up a project to ensure that a quality product is delivered within the
+desired schedule and budget. A Chingu PM doesn't just coordinate the project. 
+She also acts as a member of the development team writing code, testing the
+app, and creating documentation.
+
+An important difference between a PM in a corporate setting and yourselves is
+that since we are operating in a volunteer environment just like every Open
+Source project you are also a coach, a motivator, and a role model. We can't
+order our team mates we must establish and environment that motivates them to
+be both innovative and productive.
+
+In your role as a Chingu Project Manager’ your most important two tasks are to
+understand your teams needs and to remove any obstacles blocking their progress.
+This requires a large amount of communication and a deep understanding of what
+resources, including people, are available in the Chingu organization.
+
 ## PMRok Site Features
 
 ### Issues & Questions
@@ -41,19 +60,55 @@ information we wish to retain over time. This is intended to be something
 Chingu PM's can contribute to to promote continuous improvement as well as to
 share what we've learned with our fellow PM's.
 
-## What is a PM?
+### Projects
+
+We will be using GitHub Projects to track both current events and dates (like
+Voyages) and also for planning and tracking any PM-specific projects we might
+undertake. 
+
+[PM Calendar](https://github.com/Chingu-cohorts/pmrok/projects/1)
 
 ## Useful Information
 
 ### People
 
+TBD
+
 ### Processes
+
+TBD
 
 #### Patterns
 
+TBD
+
 #### Anti-Patterns
+
+TBD
 
 ### Tools
 
+TBD
+
 ### Reference Material
+
+In your role as a PM you may find the following useful.
+
+#### Project Management Methodologies
+
+[A Short Introduction to the Scrum Methodology](https://medium.com/chingu/a-short-introduction-to-the-scrum-methodology-7a23431b9f17)
+
+[6 Tips of Building Efficent Team in Chingu](https://medium.com/chingu/6-tips-of-building-efficient-team-in-chingu-3477c2f7305b)
+
+#### Chingu Resources
+
+[If You Ever Get One of these 5 Chingus On Your Team You Just Hit the Remote Dev Jackpot](https://medium.com/chingu/if-you-ever-get-one-these-5-chingus-on-your-team-you-just-hit-the-remote-dev-jackpot-79a1e22de12a)
+
+#### Voyages
+
+[The Voyage 3 Remote Developer Project Process](https://medium.com/chingu/the-voyage-3-remote-developer-project-process-2eda5aea2d51)
+
+[The Voyage 3 Handbook](https://medium.com/chingu/the-voyage-3-handbook-1487c688a17a)
+
+[So I'm Supposed to be a PM for my Remote Dev Team](https://medium.com/@tropicalchancer/so-im-supposed-to-be-a-project-manager-for-my-remote-dev-team-what-the-do-i-do-4fb8a244b85f)
 
