@@ -1,4 +1,4 @@
-# pmrok - The Chingu Project Management Repository of Knowledge
+# The Chingu Project Management Repository of Knowledge
 
 ## Purpose
 
