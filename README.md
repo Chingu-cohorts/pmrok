@@ -147,15 +147,15 @@ In your role as a PM you may find the following useful.
 
 - [6 Tips of Building Efficent Team in Chingu](https://medium.com/chingu/6-tips-of-building-efficient-team-in-chingu-3477c2f7305b)
 
-[Project Scope — what it is and why it’s important](https://medium.com/chingu/project-scope-what-it-is-and-why-its-important-1a07c8e07dbf)
+- [Project Scope — what it is and why it’s important](https://medium.com/chingu/project-scope-what-it-is-and-why-its-important-1a07c8e07dbf)
 
 #### Chingu Resources
 
 - [If You Ever Get One of these 5 Chingus On Your Team You Just Hit the Remote Dev Jackpot](https://medium.com/chingu/if-you-ever-get-one-these-5-chingus-on-your-team-you-just-hit-the-remote-dev-jackpot-79a1e22de12a)
 
-[@redrocket on his experience as PM and his team's workflow in Voyage-2](https://youtu.be/6TsFBW-c6to)
+- [@redrocket on his experience as PM and his team's workflow in Voyage-2](https://youtu.be/6TsFBW-c6to)
 
-[Taking the reins: A Junior Developer’s voyage as a PM](https://medium.com/chingu/taking-the-reins-a-junior-developers-voyage-as-a-pm-c2883ae04467)
+- [Taking the reins: A Junior Developer’s voyage as a PM](https://medium.com/chingu/taking-the-reins-a-junior-developers-voyage-as-a-pm-c2883ae04467)
 
 
 #### Voyages
