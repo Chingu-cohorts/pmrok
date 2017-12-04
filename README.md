@@ -124,6 +124,14 @@ must support sharing assignments and progress with the team.
 - [Trello](www.trello.com)
 - [Waffle](www.waffle.io)
 - [ZenHub](https://www.zenhub.com/)
+- [Google docs](https://docs.google.com/) (better used as an ideation tool or the intial breaking down of a project to clone)
+
+#### Meeting Tools
+
+
+- [Appear.in](https://appear.in/) - some teams swear by this tool for it's flexiblity and ease of use for doing meetings. 
+- [Google hangouts](https://hangouts.google.com/) - great for audio/video meetings and has screenshare functionality. Everyone needs to have a gmail account though. 
+
 
 #### Issue Tracking
 
