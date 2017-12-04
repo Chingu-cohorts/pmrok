@@ -88,7 +88,41 @@ TBD
 
 ### Tools
 
-TBD
+Planning a project, managing scope, tracking progress, and performing periodic
+adjustments to compensate for change requires constant communication with your
+team and effective management of the project backlog. Perfoming these activities
+is time consuming and can be tedious. Luckily, there are many tools available 
+that can help you focus on the results rather than just the steps.
+
+Since the problems you face fall into several categories:
+
+#### Meeting Planning
+
+Scheduling meetings in an organization like the Chingus is complicated by the
+fact our team mates are spread across many continents and timezones. Coupled
+with team mate obligations outside of the Chingu universe this makes finding
+meeting times suitable for all team members as difficult as trying to nail
+jello to a tree.
+
+A few tools that can help determine optimal meeting times are:
+
+[World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html)
+
+[Timezone](http://timezone.me/en/meeting-planner)
+
+#### Project Management
+
+#### Issue Tracking
+
+Keeping track of the issues to ensure that they are quickly and permanently
+resolved plays a major role in improving product quality and lowering technical
+debt. The rigor your team shows in how they deal with issue reporting reflects
+their maturity as both a team and in their chosen profession as WebDevs.
+
+Some tools that can be used to introduce the necessary rigor to issue tracking
+include:
+
+[GitHub Issues](https://guides.github.com/features/issues/)
 
 ### Reference Material
 
@@ -105,6 +139,8 @@ In your role as a PM you may find the following useful.
 [If You Ever Get One of these 5 Chingus On Your Team You Just Hit the Remote Dev Jackpot](https://medium.com/chingu/if-you-ever-get-one-these-5-chingus-on-your-team-you-just-hit-the-remote-dev-jackpot-79a1e22de12a)
 
 #### Voyages
+
+[Build-2-Learn Roadmap](https://medium.com/chingu/voyage-build-2-learn-roadmap-ba4e25dda59e)
 
 [The Voyage 3 Remote Developer Project Process](https://medium.com/chingu/the-voyage-3-remote-developer-project-process-2eda5aea2d51)
 
