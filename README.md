@@ -66,7 +66,7 @@ We will be using GitHub Projects to track both current events and dates (like
 Voyages) and also for planning and tracking any PM-specific projects we might
 undertake. 
 
-[PM Calendar](https://github.com/Chingu-cohorts/pmrok/projects/1)
+- [PM Calendar](https://github.com/Chingu-cohorts/pmrok/projects/1)
 
 ## Useful Information
 
@@ -106,9 +106,9 @@ jello to a tree.
 
 A few tools that can help determine optimal meeting times are:
 
-[World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html)
+- [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html)
 
-[Timezone](http://timezone.me/en/meeting-planner)
+- [Timezone](http://timezone.me/en/meeting-planner)
 
 #### Project Management
 
@@ -122,7 +122,7 @@ their maturity as both a team and in their chosen profession as WebDevs.
 Some tools that can be used to introduce the necessary rigor to issue tracking
 include:
 
-[GitHub Issues](https://guides.github.com/features/issues/)
+- [GitHub Issues](https://guides.github.com/features/issues/)
 
 ### Reference Material
 
@@ -130,21 +130,21 @@ In your role as a PM you may find the following useful.
 
 #### Project Management Methodologies
 
-[A Short Introduction to the Scrum Methodology](https://medium.com/chingu/a-short-introduction-to-the-scrum-methodology-7a23431b9f17)
+- [A Short Introduction to the Scrum Methodology](https://medium.com/chingu/a-short-introduction-to-the-scrum-methodology-7a23431b9f17)
 
-[6 Tips of Building Efficent Team in Chingu](https://medium.com/chingu/6-tips-of-building-efficient-team-in-chingu-3477c2f7305b)
+- [6 Tips of Building Efficent Team in Chingu](https://medium.com/chingu/6-tips-of-building-efficient-team-in-chingu-3477c2f7305b)
 
 #### Chingu Resources
 
-[If You Ever Get One of these 5 Chingus On Your Team You Just Hit the Remote Dev Jackpot](https://medium.com/chingu/if-you-ever-get-one-these-5-chingus-on-your-team-you-just-hit-the-remote-dev-jackpot-79a1e22de12a)
+- [If You Ever Get One of these 5 Chingus On Your Team You Just Hit the Remote Dev Jackpot](https://medium.com/chingu/if-you-ever-get-one-these-5-chingus-on-your-team-you-just-hit-the-remote-dev-jackpot-79a1e22de12a)
 
 #### Voyages
 
-[Build-2-Learn Roadmap](https://medium.com/chingu/voyage-build-2-learn-roadmap-ba4e25dda59e)
+- [Build-2-Learn Roadmap](https://medium.com/chingu/voyage-build-2-learn-roadmap-ba4e25dda59e)
 
-[The Voyage 3 Remote Developer Project Process](https://medium.com/chingu/the-voyage-3-remote-developer-project-process-2eda5aea2d51)
+- [The Voyage 3 Remote Developer Project Process](https://medium.com/chingu/the-voyage-3-remote-developer-project-process-2eda5aea2d51)
 
-[The Voyage 3 Handbook](https://medium.com/chingu/the-voyage-3-handbook-1487c688a17a)
+- [The Voyage 3 Handbook](https://medium.com/chingu/the-voyage-3-handbook-1487c688a17a)
 
-[So I'm Supposed to be a PM for my Remote Dev Team](https://medium.com/@tropicalchancer/so-im-supposed-to-be-a-project-manager-for-my-remote-dev-team-what-the-do-i-do-4fb8a244b85f)
+- [So I'm Supposed to be a PM for my Remote Dev Team](https://medium.com/@tropicalchancer/so-im-supposed-to-be-a-project-manager-for-my-remote-dev-team-what-the-do-i-do-4fb8a244b85f)
 
