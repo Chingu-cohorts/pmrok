@@ -140,6 +140,9 @@ In your role as a PM you may find the following useful.
 
 [@redrocket on his experience as PM and his team's workflow in Voyage-2](https://youtu.be/6TsFBW-c6to)
 
+[Taking the reins: A Junior Developer’s voyage as a PM](https://medium.com/chingu/taking-the-reins-a-junior-developers-voyage-as-a-pm-c2883ae04467)
+
+
 #### Voyages
 
 [Build-2-Learn Roadmap](https://medium.com/chingu/voyage-build-2-learn-roadmap-ba4e25dda59e)
