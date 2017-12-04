@@ -8,7 +8,7 @@ While no one project management methodology is used within the Chingu
 organization the ones used are all rooted in and Agile and Lean way of directing 
 and performing project work.
 
-The information included he is free for you to share inside and outside your
+The information included here is free for you to share inside and outside your
 teams. However, as a Chingu PM you have the responsibility of helping this
 site grow and mature by:
 
