@@ -138,6 +138,8 @@ In your role as a PM you may find the following useful.
 
 [If You Ever Get One of these 5 Chingus On Your Team You Just Hit the Remote Dev Jackpot](https://medium.com/chingu/if-you-ever-get-one-these-5-chingus-on-your-team-you-just-hit-the-remote-dev-jackpot-79a1e22de12a)
 
+[@redrocket on his experience as PM and his team's workflow in Voyage-2](https://youtu.be/6TsFBW-c6to)
+
 #### Voyages
 
 [Build-2-Learn Roadmap](https://medium.com/chingu/voyage-build-2-learn-roadmap-ba4e25dda59e)
