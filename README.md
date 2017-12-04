@@ -1,5 +1,11 @@
 # The Chingu Project Management Repository of Knowledge
 
+## Table of Contents
+- [Purpose](#purpose)
+- [What is a PM?](#what-is-a-pm)
+- [PMRoK Site Features](#pmrok-site-features)
+- [Useful Information](#useful-information)
+
 ## Purpose
 
 The Chingu Project Management Repository of Knowledge is a place for Chingu
@@ -105,7 +111,6 @@ jello to a tree.
 A few tools that can help determine optimal meeting times are:
 
 - [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html)
-
 - [Timezone](http://timezone.me/en/meeting-planner)
 
 #### Project Management
@@ -126,11 +131,14 @@ must support sharing assignments and progress with the team.
 - [ZenHub](https://www.zenhub.com/)
 - [Google docs](https://docs.google.com/) (better used as an ideation tool or the intial breaking down of a project to clone)
 
-#### Meeting Tools
+#### Meeting Tools/Pair Programming
 
 
 - [Appear.in](https://appear.in/) - some teams swear by this tool for it's flexiblity and ease of use for doing meetings. 
-- [Google hangouts](https://hangouts.google.com/) - great for audio/video meetings and has screenshare functionality. Everyone needs to have a gmail account though. 
+- [Google hangouts](https://hangouts.google.com/) - great for audio/video meetings and has screenshare functionality. Everyone needs to have a gmail account though.
+- [Jitsi](https://meet.jit.si)
+- [Slack](https://slack.com) - With their acquisition of ScreenHero, Slack has incorporated screensharing and video into the Slack client. Unfortunately, more than two participants require the paid version of Slack. With this acquisition ScreenHero has been removed from the market as a standalone tool.
+- [Talky.io](https://talky.io) 
 
 
 #### Issue Tracking
@@ -152,27 +160,24 @@ In your role as a PM you may find the following useful.
 #### Project Management Methodologies
 
 - [A Short Introduction to the Scrum Methodology](https://medium.com/chingu/a-short-introduction-to-the-scrum-methodology-7a23431b9f17)
-
 - [6 Tips of Building Efficent Team in Chingu](https://medium.com/chingu/6-tips-of-building-efficient-team-in-chingu-3477c2f7305b)
-
 - [Project Scope — what it is and why it’s important](https://medium.com/chingu/project-scope-what-it-is-and-why-its-important-1a07c8e07dbf)
 
 #### Chingu Resources
 
 - [If You Ever Get One of these 5 Chingus On Your Team You Just Hit the Remote Dev Jackpot](https://medium.com/chingu/if-you-ever-get-one-these-5-chingus-on-your-team-you-just-hit-the-remote-dev-jackpot-79a1e22de12a)
-
 - [@redrocket on his experience as PM and his team's workflow in Voyage-2](https://youtu.be/6TsFBW-c6to)
-
 - [Taking the reins: A Junior Developer’s voyage as a PM](https://medium.com/chingu/taking-the-reins-a-junior-developers-voyage-as-a-pm-c2883ae04467)
 
 
 #### Voyages
 
 - [Build-2-Learn Roadmap](https://medium.com/chingu/voyage-build-2-learn-roadmap-ba4e25dda59e)
-
 - [The Voyage 3 Remote Developer Project Process](https://medium.com/chingu/the-voyage-3-remote-developer-project-process-2eda5aea2d51)
-
 - [The Voyage 3 Handbook](https://medium.com/chingu/the-voyage-3-handbook-1487c688a17a)
-
 - [So I'm Supposed to be a PM for my Remote Dev Team](https://medium.com/@tropicalchancer/so-im-supposed-to-be-a-project-manager-for-my-remote-dev-team-what-the-do-i-do-4fb8a244b85f)
 
+#### Project Management Organizations
+
+- [Project Management Institute](https://www.pmi.org/)
+- [Scrum Alliance](https://scrumalliance.org)
