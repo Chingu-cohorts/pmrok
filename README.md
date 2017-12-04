@@ -1,5 +1,11 @@
 # The Chingu Project Management Repository of Knowledge
 
+## Table of Contents
+- [Purpose](#purpose)
+- [What is a PM?](#what-is-a-pm)
+- [PMRoK Site Features](#pmrok-site-features)
+- [Useful Information](#useful-information)
+
 ## Purpose
 
 The Chingu Project Management Repository of Knowledge is a place for Chingu
