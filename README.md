@@ -94,8 +94,6 @@ team and effective management of the project backlog. Perfoming these activities
 is time consuming and can be tedious. Luckily, there are many tools available 
 that can help you focus on the results rather than just the steps.
 
-Since the problems you face fall into several categories:
-
 #### Meeting Planning
 
 Scheduling meetings in an organization like the Chingus is complicated by the
@@ -111,6 +109,21 @@ A few tools that can help determine optimal meeting times are:
 - [Timezone](http://timezone.me/en/meeting-planner)
 
 #### Project Management
+
+A major part of project management is organizing the information you collect
+from your team and organizing it in a way that is actionable. Tools such as the
+following help you create a backlog of tasks that can be tracked as they 
+progress through various states such as Next, Blocked, In Progress, Revew, and
+Completed.
+
+Regardless of which tool you might choose a prime requirement is that the tool
+must support sharing assignments and progress with the team.
+
+- [Asana](www.asana.com)
+- [GitHub Projects](https://help.github.com/articles/about-project-boards/)
+- [Trello](www.trello.com)
+- [Waffle](www.waffle.io)
+- [ZenHub](https://www.zenhub.com/)
 
 #### Issue Tracking
 
