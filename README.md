@@ -159,6 +159,7 @@ In your role as a PM you may find the following useful.
 
 #### Project Management Methodologies
 
+- [The Agile Manifesto](http://agilemanifesto.org/)
 - [A Short Introduction to the Scrum Methodology](https://medium.com/chingu/a-short-introduction-to-the-scrum-methodology-7a23431b9f17)
 - [6 Tips of Building Efficent Team in Chingu](https://medium.com/chingu/6-tips-of-building-efficient-team-in-chingu-3477c2f7305b)
 - [Project Scope — what it is and why it’s important](https://medium.com/chingu/project-scope-what-it-is-and-why-its-important-1a07c8e07dbf)
