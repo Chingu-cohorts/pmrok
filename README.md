@@ -92,27 +92,6 @@ TBD
 
 TBD
 
-### Tools
-
-Planning a project, managing scope, tracking progress, and performing periodic
-adjustments to compensate for change requires constant communication with your
-team and effective management of the project backlog. Perfoming these activities
-is time consuming and can be tedious. Luckily, there are many tools available 
-that can help you focus on the results rather than just the steps.
-
-#### Meeting Planning
-
-Scheduling meetings in an organization like the Chingus is complicated by the
-fact our team mates are spread across many continents and timezones. Coupled
-with team mate obligations outside of the Chingu universe this makes finding
-meeting times suitable for all team members as difficult as trying to nail
-jello to a tree.
-
-A few tools that can help determine optimal meeting times are:
-
-- [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html)
-- [Timezone](http://timezone.me/en/meeting-planner)
-
 #### Project Management
 
 A major part of project management is organizing the information you collect
@@ -133,13 +112,36 @@ must support sharing assignments and progress with the team.
 
 #### Meeting Tools/Pair Programming
 
+Conducting meetings and pair programming activities both require that you
+scheduling sessions at a date and time that is convienient to all
+participants. They also require that you and your team selecting a tool 
+with features to help you to efficiently communicate. These features include
+audio, video, text messaging, and screensharing. 
 
-- [Appear.in](https://appear.in/) - some teams swear by this tool for it's flexiblity and ease of use for doing meetings. 
+##### Scheduling and Coordination Tools
+
+Scheduling meetings in an organization like the Chingus is complicated by the
+fact our team mates are spread across many continents and timezones. Coupled
+with team mate obligations outside of the Chingu universe this makes finding
+meeting times suitable for all team members as difficult as trying to nail
+jello to a tree.
+
+- [Chingu Pair Programming Matcher](https://chingupp.herokuapp.com/login) - 
+makes it easier to find your pair programing partners. Once you've signed into
+this website type `/pair-programming` in Slack, add your timezone, skill-level 
+then BINGO, when you get a match the bot will automatically generate a chat
+between you and your partner! Once you've found a match this [resource](https://medium.com/@tropicalchancer/welcome-rhinos-to-the-international-try-pair-programming-festival-of-2016-2b4b02434734) can help you to get started. 
+- [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html)
+- [Timezone](http://timezone.me/en/meeting-planner)
+
+##### Meeting/Pair Programming Tools
+
+- [Appear.in](https://appear.in/) - some teams swear by this tool for it's flexiblity and ease of use for doing meetings.
+- [Discord](https://discord.com) 
 - [Google hangouts](https://hangouts.google.com/) - great for audio/video meetings and has screenshare functionality. Everyone needs to have a gmail account though.
 - [Jitsi](https://meet.jit.si)
 - [Slack](https://slack.com) - With their acquisition of ScreenHero, Slack has incorporated screensharing and video into the Slack client. Unfortunately, more than two participants require the paid version of Slack. With this acquisition ScreenHero has been removed from the market as a standalone tool.
 - [Talky.io](https://talky.io) 
-
 
 #### Issue Tracking
 
