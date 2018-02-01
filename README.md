@@ -1,13 +1,6 @@
-# The Chingu Project Management Repository of Knowledge
+## The Chingu Project Management Repository of Knowledge (PMROK) Wiki 
 
-
-
-## PMRok Site Features
-
-
-### Wiki
-
-A GitHub wiki has been set up in this repo to act as a file cabinet for the
+This repo is the centralized location for the [PMROK Wiki](https://github.com/Chingu-cohorts/pmrok/wiki). This wiki is intended to act as a file cabinet for the
 information we wish to retain over time. This is intended to be something
 Chingu PM's can contribute to to promote continuous improvement as well as to
 share what we've learned with our fellow PM's.
@@ -20,21 +13,11 @@ undertake.
 
 - [PM Calendar](https://github.com/Chingu-cohorts/pmrok/projects/1)
 
-## Useful Information
+The wiki can be accessed via this repos tab bar:
 
-### People
+![GitHub Wiki Tab](https://github.com/Chingu-cohorts/voyage-wiki/blob/development/images/GitHub%20repo%20tabs.png)
 
-TBD
+## Announcements :exclamation:
 
-### Processes
-
-TBD
-
-#### Patterns
-
-TBD
-
-#### Anti-Patterns
-
-TBD
-
+- Voyage 4 invitations will be emailed on February 8-9 (depending on your timezone)! 
+- Voyage 4 teams will be launched on February 15.
