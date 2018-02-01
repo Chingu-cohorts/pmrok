@@ -7,7 +7,7 @@
 
 ### Wiki
 
-A GitHub wiki as been set up in this repo to act as a file cabinet for the
+A GitHub wiki has been set up in this repo to act as a file cabinet for the
 information we wish to retain over time. This is intended to be something
 Chingu PM's can contribute to to promote continuous improvement as well as to
 share what we've learned with our fellow PM's.
