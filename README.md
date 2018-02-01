@@ -5,6 +5,10 @@ information we wish to retain over time. This is intended to be something
 Chingu PM's can contribute to to promote continuous improvement as well as to
 share what we've learned with our fellow PM's.
 
+The wiki can be accessed via this repos tab bar:
+
+![GitHub Wiki Tab](https://github.com/Chingu-cohorts/voyage-wiki/blob/development/images/GitHub%20repo%20tabs.png)
+
 ### Projects
 
 We will be using GitHub Projects to track both current events and dates (like
@@ -13,9 +17,6 @@ undertake.
 
 - [PM Calendar](https://github.com/Chingu-cohorts/pmrok/projects/1)
 
-The wiki can be accessed via this repos tab bar:
-
-![GitHub Wiki Tab](https://github.com/Chingu-cohorts/voyage-wiki/blob/development/images/GitHub%20repo%20tabs.png)
 
 ## Announcements :exclamation:
 
